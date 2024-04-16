@@ -88,7 +88,7 @@ print('Reaches goal {:.2f}%. Obtains an average undiscounted return of {:.4f}.'.
 # printing the state value function
 print_state_value_function(V_best_v, P, prec=4)
 
-``
+```
 ## OUTPUT:
 ### Optimal Policy:
 ![image](https://github.com/kanishka2305/rl-value-iteration/assets/113497357/90f4a209-1826-458e-bb57-211f88177f37)
